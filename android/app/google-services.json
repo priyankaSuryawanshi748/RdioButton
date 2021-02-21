@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "466084665840",
+    "project_id": "rdiobutton-96799",
+    "storage_bucket": "rdiobutton-96799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466084665840:android:c7a952861e125fecb42535",
+        "android_client_info": {
+          "package_name": "com.rdiobuttonproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466084665840-ktg4bgif32puuc6l7q6m55900equu3nb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rdiobuttonproject",
+            "certificate_hash": "849c4f47d5c01bf0beafe9c508fc738ac899dc3e"
+          }
+        },
+        {
+          "client_id": "466084665840-tq8ksjq18se8rko3f1veoml11bp1bpus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbqB-IqIQVxZEn1ltvcaEUMpfSEav8gb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466084665840-tq8ksjq18se8rko3f1veoml11bp1bpus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
